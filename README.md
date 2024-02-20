@@ -1,2 +1,1 @@
-# SQL-Query-and-PHP
-The website is mainly used for working with SQL queries, and for testing the queries, it uses a PHP program.
+This app uses 4 tables and makes queries with different requirements. It is mainly done to experience the work with SQL, using primary keys and foreign keys, and for testing, we have an interface made in HTML in PHP.
